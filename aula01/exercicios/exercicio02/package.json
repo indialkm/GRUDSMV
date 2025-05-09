@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/jasmine": "^5.1.8",
+    "jasmine-core": "^5.7.1",
+    "karma": "^6.4.4",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-jasmine": "^5.1.0",
+    "karma-webpack": "^5.0.1",
+    "ts-loader": "^9.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.7",
+    "webpack-dev-server": "^5.2.1"
+  },
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  }
+}
